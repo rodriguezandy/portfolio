@@ -1,0 +1,33 @@
+
+
+body{
+   max-width:960px:
+   font-family: 'Open Sans', sans-serif;
+   background-color: #6699cc;
+   color: #ffffff;
+   margin: 50px;
+  }
+ 
+  h1{ 
+    color:black;
+  }
+ 
+  h2{
+  	color:orange;
+  }
+  
+a{ 
+ color: #cccccc;   	  
+}
+/* p{
+  width: 800px;
+} */
+img{
+  padding-bottom: 20px;
+}
+/*.div2{
+  float: left;
+}*/
+/*.div2 {
+  float: left;
+}*/ 
